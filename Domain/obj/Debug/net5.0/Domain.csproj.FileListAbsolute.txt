@@ -1,0 +1,12 @@
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Domain/bin/Debug/net5.0/Domain.dll
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Domain/obj/Debug/net5.0/Domain.dll
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Domain/obj/Debug/net5.0/Domain.pdb

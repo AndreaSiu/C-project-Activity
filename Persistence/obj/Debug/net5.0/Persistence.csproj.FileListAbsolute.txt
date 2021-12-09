@@ -1,0 +1,14 @@
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/chrion/Desktop/Coding/CSharp/C#Project/Persistence/obj/Debug/net5.0/Persistence.pdb
